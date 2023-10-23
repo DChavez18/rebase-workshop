@@ -3,12 +3,13 @@
 CONTENTS OF THIS FILE
 ---------------------
 
- * Introduction
  * Requirements
  * Recommended modules
  * Installation
  * Configuration
  * Troubleshooting
+
+
 
  INTRODUCTION
 ------------
@@ -22,9 +23,9 @@ RECOMMENDED MODULES
 -------------------
 - Eget nunc 
 - Scelerisque viverra mauris 
-- Vulputate enim 
-- Nulla aliquet 
-- Porttitor lacus
+<!-- - Vulputate enim  -->
+<!-- - Nulla aliquet  -->
+<!-- - Porttitor lacus -->
 
 INSTALLATION
 ------------
